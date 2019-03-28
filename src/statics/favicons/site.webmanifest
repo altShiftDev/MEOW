@@ -1,0 +1,19 @@
+{
+    "name": "altShiftDev",
+    "short_name": "altShiftDev",
+    "icons": [
+        {
+            "src": "/statics/favicons/android-chrome-192x192.png?v=XBJBROojYa",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/statics/favicons/android-chrome-512x512.png?v=XBJBROojYa",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#521c89",
+    "background_color": "#521c89",
+    "display": "standalone"
+}
