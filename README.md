@@ -1,6 +1,6 @@
 # MEOW - (My EOS Wallet)
 
-MEOW is a secure, private, free & cross-chain web-wallet on EOS! Inspired by MEW, MEOW allows EOS users to manage their accounts with hardware wallets in the browser - no downloads required.
+MEOW is a secure, private, free & cross-chain web-wallet on EOS! Inspired by MEW, MEOW allows EOS users to manage their accounts with hardware wallets in the browser - no downloads required. You can view the live site at https://www.altshiftdev.com.
 
 ## Installation
 
